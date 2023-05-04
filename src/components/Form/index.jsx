@@ -1,5 +1,5 @@
 import Button from "components/Button";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import uuid4 from "uuid4";
 import ru from "date-fns/locale/ru";
 import DatePicker from "react-datepicker";
